@@ -185,7 +185,7 @@
                 <td class="STEAK">STEAK</td>
                 <td class="STEAKPRICE">$20.0</td>
                 </tr>
-                <img src="https://media.istockphoto.com/vectors/boy-cartoon-eating-burger-vector-id519441575?k=6&m=519441575&s=612x612&w=0&h=J-cM0KQR8FLJ4eyjkMmy6Mx2TEyN6nkkJm_uXXhk-G0=" width="400">
+                <img src="https://media.istockphoto.com/vectors/boy-cartoon-eating-burger-vector-id519441575?     k=6&m=519441575&s=612x612&w=0&h=J-cM0KQR8FLJ4eyjkMmy6Mx2TEyN6nkkJm_uXXhk-G0=" width="400">
 
                  
                 
